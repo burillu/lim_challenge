@@ -1,0 +1,73 @@
+body{
+    background-image: url(img/background.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    font-family: 'Outfit';
+    font-size: 18px;
+}
+.darker{
+    background-color: rgba(0, 0, 0, 0.50);
+    margin:5% 10%;
+    border-radius: 20px;
+    padding:150px 150px
+}
+p{
+    margin-top:0px;
+    margin-bottom: 0px;
+}
+.txt_fluo{
+    color:#71f734;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.bkg_fluo{
+    background-color: #75ff33;
+    height: 45px;
+    padding-top: 10px;
+}
+.center{
+    text-align: center;
+    margin-bottom: 30px;
+}
+#logo{
+    width: 300px;
+    height: auto;
+    
+}
+.txt_white{
+    color:white;
+}
+#Gino22,#Mike24,#Fede154{
+    width: 20px;
+    height: 20px;
+}
+.label_title{
+    color:white;
+    font-size: 28px;
+    font-weight: bolder;
+}
+.carica60{
+    background-color: orange;
+    border-radius: 6px;
+    width: 35%;
+    height: 40px;
+    box-sizing: border-box;
+    margin-bottom: 30px;
+}
+.carica100{
+    background-color: #71f734;
+    border-radius: 6px;
+    width: 60%;
+    height: 40px;
+    box-sizing: border-box;
+    margin-bottom: 30px;
+}
+.carica20{
+    background-color: #d6421e;
+    border-radius: 6px;
+    width: 15%;
+    height: 40px;
+    box-sizing: border-box;
+    margin-bottom: 30px;
+}
